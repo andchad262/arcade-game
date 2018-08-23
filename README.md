@@ -1,9 +1,5 @@
 ## Arcade Game
 
-Instructions to open game
-
-1. Open index.html on any browser
-
 ## Objective:
 
 In this game you have a Player and Enemies (Bugs). The goal of the player is to reach the water without colliding into any one of the enemies. If you hit the enemies the game will reset. Be patient as it is possible to cross over without being hit. Once you successfully cross over you will get a point and the game will reset.
