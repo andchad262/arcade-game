@@ -2,7 +2,7 @@
 
 ## Objective:
 
-In this game you have a Player and Enemies (Bugs) in a Frogger application. The goal of the player is to reach the water without colliding into any one of the enemies. If you hit the enemies the game will reset. Be patient as it is possible to cross over without being hit. Once you successfully cross over you will get a point and the game will reset.
+In this game you have a Player and Enemies (Bugs) in a Frogger application. The goal of the player is to reach the water without colliding into any one of the enemies. If you hit the enemies the game will reset. Be patient as it is possible to cross over without being hit. Once you successfully cross over you will get a point. However if you get hit by the evil bugs the score will reset to 0.
 
 ## How to play:
 
